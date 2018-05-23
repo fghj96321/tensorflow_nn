@@ -6,9 +6,7 @@ include<br>
 * more detailed annotations in the code<br>
 <br>
 note<br>
-* all the demo based on mnist data，about Handwritten digit recognition
-I suggest you first learn something about this data,you can click (https://blog.csdn.net/simple_the_best/article/details/75267863)
-<br>
+* all the demo based on mnist data，about Handwritten digit recognition <br>
 * teacher MoVan's vedio give me a lot of inspiration，if you intersted in ,you can try
 <br>
 For the first time to learn tensorflow, there are deficiencies. Please make corrections.<br>
